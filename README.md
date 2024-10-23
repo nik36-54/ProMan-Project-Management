@@ -1,5 +1,5 @@
 # Build a Complete Project Management Dashboard
-Follow the [video tutorial on YouTube](https://www.youtube.com/watch?v=KAV8vo7hGAo) for detailed setup, configuration, and deployment instructions.
+Follow the [video tutorial on YouTube](https://www.youtube.com/watch?v=KAV8vo7hGAo)(Reference: EdRoh YT Channel) for detailed setup, configuration, and deployment instructions.
 
 
 ## Technology Stack
